@@ -432,19 +432,19 @@
 
 # functions
 
-def add_number(a:int, b:int):
-    # print(a+b)
+# def add_number(a:int, b:int):
+#     # print(a+b)
 
-    """this is a doc string and it also add number
-    (a) is a int
-    (b) is also a int
+#     """this is a doc string and it also add number
+#     (a) is a int
+#     (b) is also a int
 
 
-    """
-    return a+b
+#     """
+#     return a+b
 
-b = add_number(10, 10)
-print(b)
+# b = add_number(10, 10)
+# print(b)
 
 
 # def simple_intrest(number, time, place):
@@ -465,4 +465,19 @@ print(b)
 
 # result = simple_intrest(20, 2, 3)
 # print(result)
+
+# def right_justify(s):
+#     return f'{s}'
+
+# result = right_justify('olamide')
+
+# print(len(result))
+
+
+# def characters(character, num):
+#     base = character[num:]
+#     return base
+
+# base = characters('oyindolapo', 5)
+# print(base)
 
